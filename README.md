@@ -14,7 +14,7 @@ wget -O uv.zip https://github.com/astral-sh/uv/releases/latest/download/uv-x86_6
 ```
 
 
-And this project takes it a step further: Now you can make an .exe file that runs any python script on your path, simply by RENAMING the script!
+And this project takes it a step further: Now you can make an .exe file that runs any python script on your path, simply by RENAMING the the exe file you can get here in ./release/ !
 
 ## Why?
 
